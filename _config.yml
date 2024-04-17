@@ -50,9 +50,9 @@ lsi: False
 username: LiMuwenan #github username
 repo: Limuwenan.github.io #github repository
 branch: main #branch
-relative_source: ../开发文档/ #source directory
+relative_source: ../_posts/开发文档/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
+production_url:  https://github.com/LiMuwenan/Limuwenan.github.io
 source_url:  https://github.com/LiMuwenan/Limuwenan.github.io #source repository url
 
 exclude:

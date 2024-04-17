@@ -1,4 +1,5 @@
 # Site settings
+# 基本配置
 title: 你刚才说什么呢
 description: 我就是想进步
 cover: assets/images/radhakrishna.jpg
@@ -23,6 +24,7 @@ twitter: twitter
 github:  github
 
 #Additional Pages
+# 主页底部导航
 about: 开发文档
 contact: contact
 privacy-policy: privacy-policy
@@ -35,10 +37,10 @@ permalink: /:title
 analytics_id: ""
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 
-kramdown:
-  parse_block_html: true
+# kramdown:
+#   parse_block_html: true
 
 plugins:
   - jekyll-paginate-v2

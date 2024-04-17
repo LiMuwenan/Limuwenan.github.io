@@ -5,7 +5,7 @@ description: 我就是想进步
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/Limuwenan.github.io/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
 url: "" # the base hostname & protocol for your site
 
 pagination:
@@ -52,7 +52,7 @@ lsi: False
 username: LiMuwenan #github username
 repo: Limuwenan.github.io #github repository
 branch: main #branch
-relative_source: ../ #source directory
+relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
 production_url:  https://github.com/LiMuwenan/Limuwenan.github.io
 source_url:  https://github.com/LiMuwenan/Limuwenan.github.io #source repository url

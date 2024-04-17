@@ -2,6 +2,7 @@
 layout: post
 cover: 'assets/images/shiva.jpg'
 title: Style Guide
+permalink: /StyleGuide
 date: 2017-11-30 04:00:00
 tags: guide
 author: hanuman
